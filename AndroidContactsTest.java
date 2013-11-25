@@ -1,4 +1,4 @@
-package com.saucelabs.appium;
+package com.testing.example;
 
 import java.io.IOException;
 import java.net.URL;
